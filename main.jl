@@ -1,4 +1,4 @@
-using Debugger, Graphics, Gtk
+using Graphics, Gtk
 include("chip8.jl")
 
 GFX_SCALE = 10
